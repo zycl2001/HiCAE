@@ -1,4 +1,4 @@
-## HiCAE: A Hierarchical Cross-Attention Expert Framework for Multimodal Retinal Disease Classification imaging
+## HiCAE: A Hierarchical Cross-Attention Expert Framework for Multimodal Retinal Disease Classification
 
 KeyWords: Retinal disease classification, Multimodal learning, Vision Transformer, Feature fusion, Multimodal retinal imaging.
 ### 🔧Install environment
