@@ -52,7 +52,7 @@ layer_decay: 0.65
 
 ### 🌱Run the code
 ```
-cd /sh
+cd sh/
 sh target.sh
 ```
 
